@@ -1,6 +1,8 @@
 # Dipendenze e file generati
 node_modules/
 dist/
+.impeccable/live/
+.impeccable/review/
 
 # Configurazione locale, log e file di sistema
 .env
